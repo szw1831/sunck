@@ -5,8 +5,16 @@ i an super man
 sunck is a very nice man
 sunck is a very good man
 sunck is a very handsome man
+<<<<<<< HEAD
 ¹þ¹þ¹þ
 asfagaeghbaswhbaswhtf
 lyx is a man
 asdaFJAFJMdfasf
 kaige is a nice man
+=======
+??????
+adafafwagrager
+xymtijiao
+sunck is a nice man
+>>>>>>> xym 
+man
